@@ -24,7 +24,6 @@ bundle exec rake preview
 
 Generates the content and then lauches a Sinatra web application. 
 
-
 In your browser visit [localhost:4000](http://localhost:4000) or execute `open http://localhost:4000` to lauch the browser.
 
 > Note: This project contains a lot of content so the initial generation will delay the initial startup of the webservice for a few seconds. Saved changes to the content will cause Jekyll to re-generate all of the content causing a delay before it is displayed in the browser. Ensure any caching is disabled.
